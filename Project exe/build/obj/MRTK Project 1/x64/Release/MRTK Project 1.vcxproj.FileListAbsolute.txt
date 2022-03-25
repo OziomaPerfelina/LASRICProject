@@ -1,0 +1,24 @@
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\bin\x64\Release\resources.pri
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\bin\x64\Release\AppxManifest.xml
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\bin\x64\Release\MRTK Project 1.build.appxrecipe
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\obj\MRTK Project 1\x64\Release\MRTK Project 1.vcxproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\obj\MRTK Project 1\x64\Release\MRTK Project 1.vcxproj.CopyComplete
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\obj\MRTK Project 1\x64\Release\ResourceHandlingTask.state
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\obj\MRTK Project 1\x64\Release\MRTK Project 1.vcxproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\obj\MRTK Project 1\x64\Release\priconfig.xml
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\obj\MRTK Project 1\x64\Release\priconfig.xml.intermediate
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\obj\MRTK Project 1\x64\Release\unfiltered.layout.resfiles
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\obj\MRTK Project 1\x64\Release\unfiltered.layout.resfiles.intermediate
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\obj\MRTK Project 1\x64\Release\filtered.layout.resfiles
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\obj\MRTK Project 1\x64\Release\filtered.layout.resfiles.intermediate
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\obj\MRTK Project 1\x64\Release\excluded.layout.resfiles
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\obj\MRTK Project 1\x64\Release\excluded.layout.resfiles.intermediate
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\obj\MRTK Project 1\x64\Release\resources.resfiles
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\obj\MRTK Project 1\x64\Release\resources.resfiles.intermediate
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\obj\MRTK Project 1\x64\Release\pri.resfiles
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\obj\MRTK Project 1\x64\Release\pri.resfiles.intermediate
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\obj\MRTK Project 1\x64\Release\qualifiers.txt
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\obj\MRTK Project 1\x64\Release\qualifiers.txt.intermediate
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\obj\MRTK Project 1\x64\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\obj\MRTK Project 1\x64\Release\ProjectArchitectures.txt
+C:\Users\HP\OneDrive\Documents\LASRIC Training\MRTK Project 1\Project exe\build\obj\MRTK Project 1\x64\Release\.winmd_cache\$UnityPlayer.winmd_637800395060000000.json
